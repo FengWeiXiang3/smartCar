@@ -1,33 +1,32 @@
 # smartCar
-The smart car is a highly computerized automobile featuring ubiquitous computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced Smart Car demonstration platform with a transparent windshield display and various motion sensors where drivers can manipulate a variety of car-appropriate applications in augmented reality. Similar to smartphones, drivers can customize their Smart Car through free downloads of car-appropriate applications according to their wants and needs. 
+智能汽車是高度電腦化的汽車，直觀的人機互動和開放的應用平台為其特色，且無時無刻皆在計算。我們提出了一個具有透明擋風螢幕與多種運動感測器的高級智能汽車演示平台，駕駛員可以在擴增實境中操作各種汽車應用。類似於智慧型手機，駕駛員可根據自己的需求並藉由免費下載的汽車應用自定義Smart Car。 
 
 
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?raw=true)
+![圖片](https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?raw=true)
 
-Figure 1. Exterior and interior views of the Smart Car demonstration platform.
+圖1. Smart Car演示平台的外觀及內部。
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?raw=true)
+![圖片](https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?raw=true)
 
-Figure 2. System architecture of the Smart Car demonstration platform.
+圖2. Smart Car演示平台的系統架構。
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image3.png?raw=true)
+![圖片](https://github.com/smartCarLab/smartCar/blob/master/image/image3.png?raw=true)
 
-Figure 3. The Smart Car’s configuration.
+圖3. Smart Car的配置。
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?raw=true)
+![圖片](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?raw=true)
 
-Figure 4. Layout combination of the transparent windshield display
+圖4. 透明擋風螢幕的佈局、組合
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image5.png?raw=true)
+![圖片](https://github.com/smartCarLab/smartCar/blob/master/image/image5.png?raw=true)
 
-Figure 5. Manipulation of visibility restoration application in the Smart Car. Upper portion:
-driving in conditions with poor visibility; mid portion: turning on the visibility restoration application;
-lower portion: driver’s vision field has been improved after turning on the application.
+圖5. 在Smart Car中操作能見度恢復應用：
+上：在能見度差的情況下駕駛。
+中：開啟能見度恢復應用。
+下：啟動應用後，駕駛員的視野得到了改善。
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image6.png?raw=true)
+![圖片](https://github.com/smartCarLab/smartCar/blob/master/image/image6.png?raw=true)
 
-Figure 6. Driver performing the nighttime contrast enhancement application where the
-driver’svision field is increased. Upper and lower portions represent the driver’s vision field
-before and after using the application.
+圖6. 駕駛員執行增強夜間對比度應用，以提升其視野。上及下分別代表駕駛員在使用其應用之前及之後的視野。
 
