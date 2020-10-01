@@ -21,10 +21,10 @@
 
 ![圖片](https://github.com/smartCarLab/smartCar/blob/master/image/image5.png?raw=true)
 
-圖5. 在Smart Car中操作能見度恢復應用：
-上：在能見度差的情況下駕駛。
-中：開啟能見度恢復應用。
-下：啟動應用後，駕駛員的視野得到了改善。
+圖5. 在Smart Car中操作能見度恢復應用。
+上：在能見度差的情況下駕駛
+中：開啟能見度恢復應用
+下：啟動應用後，駕駛員的視野得到了改善
 
 ![圖片](https://github.com/smartCarLab/smartCar/blob/master/image/image6.png?raw=true)
 
